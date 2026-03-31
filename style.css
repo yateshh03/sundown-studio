@@ -1,6 +1,5 @@
 @font-face {
     font-family: neu;
-<<<<<<< HEAD
     src: url(./NeueHaasDisplayMediu.ttf);
 }
 
@@ -887,8 +886,10 @@ body {
         opacity: 0;
     }
 
+
 }
-=======
+@font-face {
+    font-family: neu;
     font-weight: 900;
     src: url(./fonts/NeueHaasDisplay-Mediu.ttf);
 }
@@ -1549,4 +1550,3 @@ form input{
       }
   }
   
->>>>>>> 61c5adc (Aaj ke changes)

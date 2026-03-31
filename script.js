@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 gsap.registerPlugin(ScrollTrigger);
 
 const locoScroll = new LocomotiveScroll({
@@ -280,7 +280,8 @@ swiping.addEventListener("mousemove", function(dets){
 
 
 })
-=======
+
+
 function loaderAnimation() {
   let loader = document.querySelector(".loader");
   let h1s = loader.querySelectorAll(".loader h1");
@@ -404,4 +405,4 @@ function menu() {
 }
 
 menu();
->>>>>>> 61c5adc (Aaj ke changes)
+
